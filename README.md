@@ -19,31 +19,31 @@ Hey there! I'm a passionate **Full Stack Developer** with expertise in building 
 
 ### 📌 Featured Projects
 
-#### 🚀 [Spotify-mini](https://github.com/yourusername/spotify-mini)
+#### 🚀 [Spotify-mini](https://github.com/ravikarmakar/Spotify-mini)
 A **full-stack music streaming app** with real-time chat and friend activity tracking.
 - **Tech Stack:** React, TypeScript, Clerk Authentication, Socket.io, MongoDB
 
-#### 💬 [Real-Time Chat App](https://github.com/yourusername/chat-app)
+#### 💬 [Real-Time Chat App](https://github.com/ravikarmakar/chat-app)
 A **MERN-based live chat application** with secure authentication and WebSocket support.
 - **Tech Stack:** React, Node.js, Express, MongoDB, Socket.io, JWT
 
-#### 🎬 [Netflix Clone](https://github.com/yourusername/netflix-clone)
-A **full-stack video streaming platform** with user authentication and movie data fetching.
-- **Tech Stack:** React, Redux, RapidAPI, Firebase Authentication
+#### 🎬 [Gaming-hub Clone](https://github.com/ravikarmakar/gaming-hub)
+A **full-stack Gaming Social media with team menagment system platform** with user authentication and create his team and data fetching.
+- **Tech Stack:** React, Zustand, TypeScript, MongoDB, JWT: Authentication
 
 *(More projects on my GitHub! 👇)*
 
 ---
 
 ### 📫 Connect With Me
-🔗 **Portfolio:** [yourportfolio.com](https://devportfolio-mu-five.vercel.app)  
-🔗 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/ravikarmakar)  
-🔗 **Twitter:** [@yourhandle](https://x.com/ravi_karmakar4)  
+🔗 **Portfolio:** [DevPortfolio.com](https://devportfolio-mu-five.vercel.app)  
+🔗 **LinkedIn:** [linkedin.com/in/ravikarmakar](https://linkedin.com/in/ravikarmakar)  
+🔗 **Twitter:** [@ravi_karmakar4](https://x.com/ravi_karmakar4)  
 
 ---
 
 ### ⚡ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravikarmakar&show_icons=true&theme=radical)
 
 📌 *Let's build something amazing together!* 🚀
 
